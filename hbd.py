@@ -6,7 +6,7 @@ from datetime import datetime
 import random
 
 # Password configuration
-PASSWORD = "1"
+PASSWORD = "08052003"
 
 # Questions and answers
 questions = [
